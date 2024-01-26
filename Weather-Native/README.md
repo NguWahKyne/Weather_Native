@@ -12,3 +12,7 @@ Like npm start / yarn start, but also attempts to open your app in the iOS Simul
 
 ### `npm run android or yarn run android`
 Like npm start / yarn start, but also attempts to open your app on a connected Android device or emulator.
+
+
+oki oki Testing 1 
+Testing 2 
